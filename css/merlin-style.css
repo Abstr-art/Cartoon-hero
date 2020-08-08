@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: Neris, Gotham, sans-serif;
+	font-size: 20px;
+	line-height: 30px
 
 }
 header{
@@ -37,6 +39,32 @@ main img{
 }
 
 main h2{
-	font-size: 50px;
+	font-size: 40px;
 	color: #8F001E;
+	margin: 30px 0 15px;
+}
+
+a{
+	color: #8F001E
+}
+
+a:hover{
+	color: #D99804;
+}
+
+footer{
+	background-color: #8F001E;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+p.caption{
+	color: #9E9D9C;
+	font-style: italic;
+	margin-top: 0;
+}
+
+p{
+	margin-top: 0;
 }
